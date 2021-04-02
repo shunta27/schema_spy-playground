@@ -2,7 +2,7 @@
 
 ## How to play
 
-- schemaspy/schemaspy.propertiesで出力したいDB変更してください
+- schemaspy/schemaspy.propertiesで出力したいDB(driverも)変更してください
 
 ```bash
 $ cp schemaspy/schemaspy.properties.default schemaspy/schemaspy.properties
